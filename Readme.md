@@ -1,1 +1,1 @@
-A Simple discord bot which interacts with the users.
+A Simple discord bot which interacts with the users. Just an experiment project to learn and use discord.js module.
